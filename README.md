@@ -11,7 +11,7 @@ Na trilha java pude realizar diversos exercícios de Lógica de programação, H
 ![Programa Start](https://user-images.githubusercontent.com/89217325/184644232-1dac1f12-2517-44da-be61-2eca5348d622.png)
 
 
-# Módulos Estudadas 
+# Módulos Estudados 
 - Introdução A Lógica de Programação
 - Lógica de Programação e Algoritimo I
 - Lógica de Programação e Algoritimo II
